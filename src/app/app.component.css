@@ -1,0 +1,13 @@
+html,body,input
+{
+    margin:0;
+padding:0;
+border:1px solid black;
+outline:0;
+font-size:100%;
+text-align: center;
+height:100%;
+font-family: 'Roboto Condensed','Oswald','lato', 'arial', 'verdana';
+width:300px;         
+           
+}
